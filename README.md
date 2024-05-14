@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center">Tha-Mart</h1>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -7,55 +7,68 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<h4><a href="https://github.com/Sajib-dev1/The-Mart/tree/master" target="_blank">Project link</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/14LoWLE78xmIG95yEh0GLxQ3l3cm9vgnL?usp=sharing" target="_blank">show this website image screenshot</a></h4>
 
-## Learning Laravel
+## About This Laravel project
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+It is a customer-friendly e-commerce project. Here you can manage roles. Customer queries can be answered beautifully with AI. Can send Gmail, SMS, and invoices to customers. Customers can keep the product in the cart for a long time without buying it. After placing the product order, you can cancel the order. With this, customers can return and pay online even after receiving the product. Customers can buy by looking at top sales and reviews and there are also subscriber offers and various offers.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Features
 
-## Laravel Sponsors
+<p>Feature 1: &nbsp; Multi Authentication</p>
+<p>Feature 2: &nbsp; Roll Management System</p>
+<p>Feature 3: &nbsp; Inventory Management</p>
+<p>Feature 4: &nbsp; Cash on Delivery Payment method</p>
+<p>Feature 5: &nbsp; SSLCOMMERZ Payment method</p>
+<p>Feature 6: &nbsp; STRIPE Payment method</p>
+<p>Feature 7: &nbsp; Search Functionality</p>
+<p>Feature 8: &nbsp; Review & Comments</p>
+<p>Feature 9: &nbsp; Filtering</p>
+<p>Feature 10: &nbsp; Mail verification</p>
+<p>Feature 11: &nbsp; social login</p>
+<p>Feature 12: &nbsp; Rest API Integration</p>
+<p>Feature 13: &nbsp; Live chat & AI smart answer generator</p>
+<p>Feature 14: &nbsp; Add cart</p>
+<p>Feature 15: &nbsp; Add wishlist</p>
+<p>Feature 16: &nbsp; Add Recently Viewed product</p>
+<p>Feature 17: &nbsp; Cart Update option</p>
+<p>Feature 18: &nbsp; Checkout option</p>
+<p>Feature 19: &nbsp; Billing Address, Ship to a Different Address</p>
+<p>Feature 20: &nbsp; Customer Invoice sent for Gmail</p>
+<p>Feature 21: &nbsp; Customer SMS sent for Mobile</p>
+<p>Feature 22: &nbsp; Admin Order cancel option</p>
+<p>Feature 23: &nbsp; Customer Order cancel option</p>
+<p>Feature 24: &nbsp; Customer Order return option</p>
+<p>Feature 25: &nbsp; A lot of users.</p>
+<p>Feature 26: &nbsp; Category option (Add, Edit,soft-delete, restore, permanent delete)</p>
+<p>Feature 27: &nbsp; Subcategory option (Add, Edit,soft-delete, restore, permanent delete)</p>
+<p>Feature 28: &nbsp; Brand option (Add, Edit,soft-delete, restore, permanent delete & more future)</p>
+<p>Feature 29: &nbsp; Product unlimited store, product control & inventory add product, product store increment, decrement</p>
+<p>Feature 30: &nbsp; Product tag search tag Waze product search, product color size edit.</p>
+<p>Feature 31: &nbsp; Category, subcategory, brand-wise product view</p>
+<p>Feature 32: &nbsp; add a dynamic delivery charge.
+<p>Feature 33: &nbsp; add a dynamic coupon add</p>
+<p>Feature 34: &nbsp; add a dynamic coupon add</p>
+<p>Feature 35: &nbsp; add a dynamic banner & banner product show</p>
+<p>Feature 36: &nbsp; Upcoming offer product store</p>
+<p>Feature 37: &nbsp; discount offer product store</p>
+<p>Feature 38: &nbsp; Special discount for subscribers</p>
+<p>Feature 39: &nbsp; Does anyone report for my side?</p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## Technologies Used
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<p>Laravel</p>
+<p>PHP</p>
+<p>MySQL (or any other database)</p>
+<p>HTML/CSS (if applicable)</p>
+<p>JavaScript (if applicable)</p>
+<p>postman</p>
+<p>Rest API</p>
 
 ## Security Vulnerabilities
 
