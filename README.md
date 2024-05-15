@@ -56,6 +56,14 @@ Feature 20: &nbsp; Customer Invoice sent for Gmail
 <p>postman</p>
 <p>Rest API</p>
 
+<pre>
+    <h3>Contact :</h3> sajib03.dev@gmail.com
+    <h3>Project Link :</h3> https://github.com/Sajib-dev1/ThaMart
+    
+</pre>
+<hr>
+
+
 <h1>Installation</h1>
 
 <h3> 1 &nbsp; Clone the repository:</h3>
