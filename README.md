@@ -10,7 +10,7 @@
 
 
 
-<h4><a href="https://github.com/Sajib-dev1/The-Mart/tree/master" target="_blank">Project link</a></h4>
+<h4><a href="https://drive.google.com/drive/u/0/folders/18j9v3pSRE9YwjhYn68NREyjThg4lfvmA" target="_blank">Project SQL file link </a></h4>
 <h4><a href="https://drive.google.com/drive/u/0/folders/1F9sdS5lFVETJFXaOfFSkpXNq_jG5XLEF" target="_blank">show this website image screenshot</a></h4>
 
 ## About This Laravel project
@@ -53,10 +53,73 @@ Feature 20: &nbsp; Customer Invoice sent for Gmail
 <p>postman</p>
 <p>Rest API</p>
 
-## Security Vulnerabilities
+<h1>Installation</h1>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<h3> 1 &nbsp; Clone the repository:</h3>
+<pre>
+    git clone : https://github.com/Sajib-dev1/ThaMart
+</pre>
 
-## License
+
+<h3> 2 &nbsp; Navigate to the project directory:</h3>
+<pre>
+    cd laravel-ecommerce
+</pre>
+
+
+<h3> 3 &nbsp; Install dependencies:</h3>
+<pre>
+    composer install
+</pre>
+
+
+<h3> 4 &nbsp; Copy the .env.example file to .env:</h3>
+<pre>
+    cp .env.example .env
+</pre>
+
+
+<h3> 5 &nbsp; Generate application key:</h3>
+<pre>
+    php artisan key:generate
+</pre>
+
+
+<h3> 6 &nbsp; Set up your database connection in the .env file:</h3>
+<pre>
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=themart
+    DB_USERNAME=your_username
+    DB_PASSWORD=your_password
+</pre>
+
+<h3> 7 &nbsp; Migrate the database:</h3>
+<pre>
+    php artisan migrate
+</pre>
+
+<h3> 8 &nbsp; Serve the application:</h3>
+<pre>
+   php artisan serve
+</pre>
+
+<h3> 9 &nbsp; Visit http://localhost:8000 in your web browser.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
